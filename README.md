@@ -1,6 +1,6 @@
 ### Hi there  Sharvin here👋
 
-<!--
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Email](mailto:sharvinpharande@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
