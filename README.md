@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Email](mailto:sharvinpharande@gmail.com)
 /*- 😄 Pronouns: ...
-- ⚡ Fun fact: ...*/
+/*- ⚡ Fun fact: ...
 
