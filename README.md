@@ -1,7 +1,7 @@
 ### Hi there👋
 I'm [Sharvin](https://crpytoscooby.github.io/), a passionate programmer and a cybernerd, Cloud enthusiast.
 
-<img height=200 align="right" alt="GIF" src="https://giphy.com/gifs/YQitE4YNQNahy/html5"/>
+<img height=200 align="right" alt="GIF" src="http://gph.is/297cNL0"/>
 
 <a href="mailto:sharvinpharande@gmail.com" target="_blank">
   <img align="left" alt="Sharvin's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
