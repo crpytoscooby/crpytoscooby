@@ -25,7 +25,7 @@ I'm [Sharvin](https://crpytoscooby.github.io/), a passionate programmer and a cy
 - Backend Development - **MongoDB**
 - Languages which I know - **Python, C, C++.**
 - Web series I like - **Silicon Valley,  HIMYM,  ,  Breaking Bad,  MR Robot.**
-- Music - **Akon,  Travis Scott,  Charlie Puth,  Post Malone, Eminem, Snoop Dogg.**
+- Music - **Akon,  Travis Scott,  Anne Marine,  Charlie Puth,  Dua Lipa,  Post Malone,  Eminem,  Snoop Dogg.**
 - Games I play - **Valorant, GTA V, Just Cause 4, Far Cry 5, Call of Duty Modern Warfare.**
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
