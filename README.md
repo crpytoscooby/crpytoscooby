@@ -7,7 +7,8 @@ I'm [Sharvin](https://crpytoscooby.github.io/), a passionate programmer and a cy
   <img align="left" alt="Sharvin's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://twitter.com/sharvin_02" target="_blank">
-  <img align="left" alt="Sharvin Pharande | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sharvin Pharande | Twitter" width="22px" <div>Icons made by <a href="https://www.flaticon.com/authors/google" title="Google">Google</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+ />
 </a>
 <a href="https://www.instagram.com/sharvinpharande/" target="_blank">
   <img align="left" alt="Sharvin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
