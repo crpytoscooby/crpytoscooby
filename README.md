@@ -17,21 +17,19 @@ I'm [Sharvin](https://crpytoscooby.github.io/), a passionate programmer and a cy
   <img align="left" alt="Sharvin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
-
 <br>
 
 ###  Let's Talk about Me
-- Frontend Development - **HTML, CSS, Javascript, Angular JS.**
+- Frontend Development - **HTML5, CSS3, Javascript, React JS.**
 - Backend Development - **MongoDB**
 - Languages which I know - **Python, C, C++.**
-- Web series I like - **Silicon Valley,  HIMYM,  ,  Breaking Bad,  MR Robot.**
+- Web series I like - **Silicon Valley,  HIMYM,  ,  FRIENDS,  MR Robot.**
 - Music - **Akon,  Travis Scott,  Anne Marine,  Charlie Puth,  Dua Lipa,  Post Malone,  Eminem,  Snoop Dogg.**
-- Games I play - **Valorant, GTA V, Just Cause 4, Far Cry 5, Call of Duty Modern Warfare.**
+- Games I play - **Valorant, GTA V.**
 <br>
 
 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=crpytoscooby&custom_title=WeeklyCoding&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crpytoscooby&layout=compact&langs_count=10&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
