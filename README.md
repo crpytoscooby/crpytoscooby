@@ -34,6 +34,9 @@ I'm [Sharvin](https://crpytoscooby.github.io/), a passionate programmer and a cy
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
+![](https://komarev.com/ghpvc/?username=crpytoscooby&color=202020&label=profile+views)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yatish1606&custom_title=WeeklyCoding&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crpytoscooby&layout=compact&langs_count=10&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![crpytoscooby's github stats](https://github-readme-stats.vercel.app/api?username=crpytoscooby&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crpytoscooby&layout=compact)
+[![Sharvin's Github Stats](https://github-readme-stats.vercel.app/api?username=crpytoscooby&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
