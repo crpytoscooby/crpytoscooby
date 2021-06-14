@@ -20,7 +20,7 @@ I'm [Sharvin](https://sharvinpharande.xyz/), a passionate programmer, freelancer
 <br>
 
 ###  Let's Talk about Me
-- Frontend Development - **HTML5, CSS3, Javascript, React JS.**
+- Frontend Development - **HTML5, CSS3, Javascript, SCSS, React JS.**
 - Backend Development - **MongoDB**
 - Languages which I know - **Python, C, C++.**
 - Web series I like - **Silicon Valley,  HIMYM,  ,  FRIENDS,  MR Robot.**
