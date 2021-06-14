@@ -1,5 +1,5 @@
 ### Hi there👋
-I'm [Sharvin](https://crpytoscooby.github.io/), a passionate programmer and a cybernerd, Cloud enthusiast.
+I'm [Sharvin](https://sharvinpharande.xyz/), a passionate programmer, freelancer and a cybernerd.
 
 <img height=200 align="right" alt="GIF" src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e471625b2dff314394be4e273111df05dae275f7eab&rid=giphy.gif"/>
 
