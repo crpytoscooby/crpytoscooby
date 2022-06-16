@@ -22,7 +22,7 @@ I'm [Sharvin](https://sharvinpharande.xyz/), a passionate programmer, freelancer
 ###  Let's Talk about Me
 - Frontend Development - **HTML5, CSS3, Javascript, SCSS, React JS.**
 - Backend Development - **MongoDB**
-- Languages which I know - **Python, C, C++.**
+- Languages which I know - **Python.**
 - Web series I like - **Silicon Valley,  HIMYM,  ,  FRIENDS,  MR Robot.**
 - Music - **Akon,  Travis Scott,  Anne Marine,  Charlie Puth,  Dua Lipa,  Post Malone,  Eminem,  Snoop Dogg.**
 - Games I play - **Valorant, GTA V.**
