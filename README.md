@@ -39,7 +39,7 @@
 
 ###  👨🏻‍💻 About Me :
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" align="right">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="440" align="right">
  
 
 - #### 🌱 I’m currently exploring **Certs in Cybersecurity**.
