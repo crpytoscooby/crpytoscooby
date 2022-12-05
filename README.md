@@ -116,7 +116,6 @@ title="kali" alt="kali"  width="50" height="50"/>&nbsp;
 
 [![Sharvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=crpytoscooby&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
-[![Sharvin's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=crpytoscooby&theme=redical&hide_border=true)](#!)
 
 
 </div>
