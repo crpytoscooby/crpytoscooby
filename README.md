@@ -41,8 +41,10 @@
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="440" align="right">
  
+ <script src="https://tryhackme.com/badge/74294"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Bitrox.png" alt="TryHackMe">
 
-- #### 🌱 I’m currently exploring **Certs in Cybersecurity**.
+- #### 🌱 I’m currently exploring **Global Certifications in Cybersecurity**.
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
 - #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharvin-pharande-2397901a4/)
