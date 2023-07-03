@@ -35,13 +35,13 @@
 
 <div align="left">
 
-### I am an Ethical Hacker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Fullstack Developer. A huge UI/UX enthusiast.
+### I am an Cybersecurity Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Fullstack Developer. A huge UI/UX enthusiast.
 
 ###  👨🏻‍💻 About Me :
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="440" align="right">
  
- <script src="https://tryhackme.com/badge/74294"></script>
+
  <img src="https://tryhackme-badges.s3.amazonaws.com/Bitrox.png" alt="TryHackMe">
 
 - #### 🌱 I’m currently exploring **Global Certifications in Cybersecurity**.
